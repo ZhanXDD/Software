@@ -1,0 +1,533 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:05:22 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 14792@DESKTOP-50C67QE
+
+[2021-02-17 17:05:22 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:05:22 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:05:22 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:05:22 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:05:22 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:05:22 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:11:26 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 16724@DESKTOP-50C67QE
+
+[2021-02-17 17:11:26 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:11:26 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:11:26 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:11:26 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:11:26 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:11:26 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:15:40 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 9940@DESKTOP-50C67QE
+
+[2021-02-17 17:15:40 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:15:40 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:15:40 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:15:40 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:15:40 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:15:40 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:19:03 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 14364@DESKTOP-50C67QE
+
+[2021-02-17 17:19:03 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:19:03 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:19:03 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:19:03 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:19:03 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:19:03 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:22:20 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 17472@DESKTOP-50C67QE
+
+[2021-02-17 17:22:21 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:22:21 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:22:21 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:22:21 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:22:21 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:22:21 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:40:04 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\Bets21\src\main\resources\bets.temp' is opened by 11420@DESKTOP-50C67QE
+
+[2021-02-17 17:40:04 #2 type.registry] 
+New type domain.Question
+
+[2021-02-17 17:40:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-02-17 17:40:04 #4 type.registry] 
+New type domain.Event
+
+[2021-02-17 17:40:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-02-17 17:40:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-02-17 17:40:04 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:43:33 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 18288@DESKTOP-50C67QE
+
+[2021-02-17 17:43:33 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:43:33 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:43:33 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:43:33 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:43:33 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:43:33 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:48:38 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 3224@DESKTOP-50C67QE
+
+[2021-02-17 17:48:38 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:48:38 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:48:38 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:48:38 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:48:38 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:48:38 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:56:20 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 17028@DESKTOP-50C67QE
+
+[2021-02-17 17:56:20 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:56:20 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:56:20 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:56:20 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:56:20 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:56:20 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:56:36 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 15760@DESKTOP-50C67QE
+
+[2021-02-17 17:56:36 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:56:36 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:56:36 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:56:36 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:56:36 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:56:36 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:58:55 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 14408@DESKTOP-50C67QE
+
+[2021-02-17 17:58:55 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:58:55 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:58:55 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:58:55 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:58:55 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:58:55 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:59:11 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 14064@DESKTOP-50C67QE
+
+[2021-02-17 17:59:11 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:59:11 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:59:11 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:59:11 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:59:11 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:59:11 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 17:59:32 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 2636@DESKTOP-50C67QE
+
+[2021-02-17 17:59:32 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 17:59:32 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 17:59:32 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 17:59:32 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 17:59:32 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 17:59:32 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:00:07 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 1548@DESKTOP-50C67QE
+
+[2021-02-17 18:00:07 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 18:00:07 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:00:07 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 18:00:07 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 18:00:07 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 18:00:07 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:04:07 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 16500@DESKTOP-50C67QE
+
+[2021-02-17 18:04:07 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 18:04:07 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:04:07 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 18:04:07 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 18:04:07 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 18:04:07 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:05:18 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 10220@DESKTOP-50C67QE
+
+[2021-02-17 18:05:19 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 18:05:19 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:05:19 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 18:05:19 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 18:05:19 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 18:05:19 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:11:36 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 4236@DESKTOP-50C67QE
+
+[2021-02-17 18:11:36 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 18:11:36 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:11:36 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 18:11:36 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 18:11:36 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 18:11:36 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:13:05 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' has been recovered (tr. 1-26)
+
+[2021-02-17 18:13:05 #2 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 10688@DESKTOP-50C67QE
+
+[2021-02-17 18:13:05 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:13:05 #4 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:13:13 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 11380@DESKTOP-50C67QE
+
+[2021-02-17 18:13:13 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:13:13 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:13:44 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 15096@DESKTOP-50C67QE
+
+[2021-02-17 18:13:44 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:13:44 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 18:50:46 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 3128@DESKTOP-50C67QE
+
+[2021-02-17 18:50:46 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 18:50:46 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:15:20 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 8100@DESKTOP-50C67QE
+
+[2021-02-17 19:15:20 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:15:20 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:20:38 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 8900@DESKTOP-50C67QE
+
+[2021-02-17 19:20:38 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:20:38 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:20:43 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\dataBase.odb' is opened by 16932@DESKTOP-50C67QE
+
+[2021-02-17 19:20:43 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:20:43 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:41:09 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\RuralHouses.odb' is opened by 3572@DESKTOP-50C67QE
+
+[2021-02-17 19:41:10 #2 type.registry] 
+New type domain.Offer
+
+[2021-02-17 19:41:10 #3 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 19:41:10 #4 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 19:41:10 #5 type] 
+Type domain.RuralHouse is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:41:36 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\RuralHouses.odb' is opened by 15244@DESKTOP-50C67QE
+
+[2021-02-17 19:41:36 #2 type.registry] 
+New type domain.RuralHouse
+
+[2021-02-17 19:41:36 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:41:36 #4 type.registry] 
+New type domain.Offer
+
+[2021-02-17 19:41:36 #5 type] 
+Type domain.Offer is not enhanced.
+
+[2021-02-17 19:41:36 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-02-17 19:41:36 #7 type.registry] 
+New type java.util.ArrayList<domain.Offer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:42:19 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\RuralHouses.odb' is opened by 8828@DESKTOP-50C67QE
+
+[2021-02-17 19:42:19 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:42:19 #3 type] 
+Type domain.Offer is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-02-17 19:43:08 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\1Marron2020\RuralHouses.odb' is opened by 13952@DESKTOP-50C67QE
+
+[2021-02-17 19:43:08 #2 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2021-02-17 19:43:08 #3 type] 
+Type domain.Offer is not enhanced.
+

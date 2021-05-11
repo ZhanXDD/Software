@@ -1,0 +1,2480 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 13:25:35 #1 store] 
+Database 'C:\Users\elgor\Documents\2 Curso\2.Cuatri\Ingenieria Software\Iteracion3-SinParteAngel.zip_expanded\Bets21\src\main\resources\bets.temp' is opened by 2484@DESKTOP-50C67QE
+
+[2021-05-11 13:25:35 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 13:25:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 13:25:35 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 13:25:35 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 13:25:35 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 13:25:35 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 13:25:35 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 13:25:35 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 13:25:35 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 13:25:35 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 13:25:35 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 13:25:35 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 13:25:35 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 13:25:35 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 13:25:35 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 13:25:35 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 13:25:35 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 13:25:35 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 13:25:35 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 13:25:35 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 13:25:35 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 13:25:35 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 13:25:35 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 13:25:35 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 13:25:35 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:13:13 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 12848@DESKTOP-50C67QE
+
+[2021-05-11 14:13:13 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:13:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:13:13 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:13:13 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:13:13 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:13:13 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:13:13 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:13:13 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:13:13 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:13:13 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:13:13 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:13:13 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:13:13 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:13:13 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:13:13 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:13:13 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:13:13 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:13:13 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:13:13 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:13:13 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:13:13 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:13:13 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:13:13 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:13:13 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:13:13 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:14:03 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 7132@DESKTOP-50C67QE
+
+[2021-05-11 14:14:03 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:14:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:14:03 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:14:03 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:14:03 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:14:03 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:14:03 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:14:03 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:14:03 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:14:03 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:14:03 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:14:03 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:14:03 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:14:03 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:14:03 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:14:03 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:14:03 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:14:03 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:14:03 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:14:03 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:14:03 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:14:03 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:14:03 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:14:03 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:14:03 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:16:18 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 3628@DESKTOP-50C67QE
+
+[2021-05-11 14:16:18 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:16:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:16:18 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:16:18 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:16:18 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:16:18 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:16:18 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:16:18 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:16:18 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:16:18 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:16:18 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:16:18 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:16:18 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:16:18 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:16:18 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:16:18 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:16:18 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:16:18 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:16:18 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:16:18 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:16:18 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:16:18 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:16:18 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:16:18 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:16:18 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:18:33 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 5204@DESKTOP-50C67QE
+
+[2021-05-11 14:18:34 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:18:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:18:34 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:18:34 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:18:34 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:18:34 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:18:34 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:18:34 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:18:34 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:18:34 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:18:34 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:18:34 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:18:34 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:18:34 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:18:34 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:18:34 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:18:34 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:18:34 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:18:34 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:18:34 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:18:34 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:18:34 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:18:34 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:18:34 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:18:34 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:19:03 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 11048@DESKTOP-50C67QE
+
+[2021-05-11 14:19:03 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:19:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:19:03 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:19:03 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:19:03 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:19:03 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:19:03 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:19:03 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:19:03 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:19:03 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:19:03 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:19:03 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:19:03 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:19:03 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:19:03 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:19:03 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:19:03 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:19:03 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:19:03 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:19:03 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:19:03 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:19:03 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:19:03 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:19:03 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:19:03 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:28:41 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 5964@DESKTOP-50C67QE
+
+[2021-05-11 14:28:41 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:28:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:28:41 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:28:41 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:28:41 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:28:41 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:28:41 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:28:41 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:28:41 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:28:41 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:28:41 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:28:41 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:28:41 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:28:41 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:28:41 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:28:41 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:28:41 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:28:41 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:28:41 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:28:41 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:28:41 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:28:41 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:28:41 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:28:41 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:28:41 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:30:25 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 6796@DESKTOP-50C67QE
+
+[2021-05-11 14:30:26 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:30:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:30:26 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:30:26 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:30:26 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:30:26 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:30:26 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:30:26 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:30:26 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:30:26 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:30:26 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:30:26 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:30:26 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:30:26 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:30:26 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:30:26 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:30:26 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:30:26 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:30:26 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:30:26 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:30:26 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:30:26 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:30:26 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:30:26 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:30:26 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:33:37 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 2484@DESKTOP-50C67QE
+
+[2021-05-11 14:33:37 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:33:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:33:37 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:33:37 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:33:37 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:33:37 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:33:37 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:33:37 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:33:37 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:33:37 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:33:37 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:33:37 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:33:37 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:33:37 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:33:37 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:33:37 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:33:37 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:33:37 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:33:37 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:33:37 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:33:37 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:33:37 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:33:37 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:33:37 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:33:37 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 14:37:45 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 12648@DESKTOP-50C67QE
+
+[2021-05-11 14:37:45 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 14:37:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 14:37:45 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 14:37:45 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 14:37:45 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 14:37:45 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 14:37:45 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 14:37:45 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 14:37:45 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 14:37:45 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 14:37:45 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 14:37:45 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 14:37:45 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 14:37:45 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 14:37:45 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 14:37:45 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 14:37:45 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 14:37:45 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 14:37:45 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 14:37:45 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 14:37:45 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 14:37:45 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 14:37:45 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 14:37:45 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 14:37:45 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:06:11 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 10328@DESKTOP-50C67QE
+
+[2021-05-11 15:06:11 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:06:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:06:11 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:06:11 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:06:11 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:06:11 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:06:11 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:06:11 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:06:11 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:06:11 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:06:11 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:06:11 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:06:11 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:06:11 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:06:11 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:06:11 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:06:11 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:06:11 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:06:11 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:06:11 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:06:11 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:06:11 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:06:11 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:06:11 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:06:11 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:08:01 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 9048@DESKTOP-50C67QE
+
+[2021-05-11 15:08:02 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:08:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:08:02 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:08:02 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:08:02 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:08:02 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:08:02 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:08:02 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:08:02 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:08:02 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:08:02 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:08:02 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:08:02 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:08:02 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:08:02 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:08:02 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:08:02 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:08:02 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:08:02 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:08:02 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:08:02 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:08:02 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:08:02 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:08:02 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:08:02 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:09:24 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 1472@DESKTOP-50C67QE
+
+[2021-05-11 15:09:24 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:09:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:09:24 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:09:24 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:09:24 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:09:24 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:09:24 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:09:24 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:09:24 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:09:24 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:09:24 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:09:24 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:09:24 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:09:24 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:09:24 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:09:24 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:09:24 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:09:24 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:09:24 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:09:24 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:09:24 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:09:24 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:09:24 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:09:24 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:09:24 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:11:55 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 8608@DESKTOP-50C67QE
+
+[2021-05-11 15:11:55 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:11:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:11:55 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:11:55 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:11:55 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:11:55 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:11:55 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:11:55 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:11:55 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:11:55 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:11:55 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:11:55 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:11:55 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:11:55 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:11:55 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:11:55 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:11:55 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:11:55 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:11:55 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:11:55 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:11:55 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:11:55 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:11:55 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:11:55 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:11:55 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:16:39 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 4968@DESKTOP-50C67QE
+
+[2021-05-11 15:16:39 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:16:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:16:39 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:16:39 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:16:39 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:16:39 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:16:39 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:16:39 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:16:39 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:16:39 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:16:39 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:16:39 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:16:39 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:16:39 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:16:39 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:16:39 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:16:39 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:16:39 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:16:39 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:16:39 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:16:39 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:16:39 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:16:39 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:16:39 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:16:39 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:17:16 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 13808@DESKTOP-50C67QE
+
+[2021-05-11 15:17:16 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:17:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:17:16 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:17:16 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:17:16 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:17:16 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:17:16 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:17:16 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:17:16 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:17:16 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:17:16 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:17:16 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:17:16 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:17:16 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:17:16 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:17:16 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:17:16 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:17:16 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:17:16 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:17:16 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:17:16 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:17:16 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:17:16 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:17:16 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:17:16 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:21:56 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 14144@DESKTOP-50C67QE
+
+[2021-05-11 15:21:57 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:21:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:21:57 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:21:57 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:21:57 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:21:57 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:21:57 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:21:57 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:21:57 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:21:57 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:21:57 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:21:57 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:21:57 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:21:57 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:21:57 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:21:57 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:21:57 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:21:57 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:21:57 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:21:57 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:21:57 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:21:57 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:21:57 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:21:57 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:21:57 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:25:00 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 7888@DESKTOP-50C67QE
+
+[2021-05-11 15:25:00 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:25:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:25:00 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:25:00 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:25:00 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:25:00 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:25:00 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:25:00 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:25:00 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:25:00 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:25:00 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:25:00 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:25:00 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:25:00 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:25:00 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:25:00 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:25:00 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:25:00 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:25:00 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:25:00 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:25:00 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:25:00 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:25:00 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:25:00 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:25:00 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:31:26 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 10452@DESKTOP-50C67QE
+
+[2021-05-11 15:31:26 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:31:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:31:26 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:31:26 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:31:26 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:31:26 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:31:26 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:31:26 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:31:26 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:31:26 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:31:26 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:31:26 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:31:26 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:31:26 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:31:26 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:31:26 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:31:26 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:31:26 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:31:26 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:31:26 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:31:26 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:31:26 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:31:26 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:31:26 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:31:26 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:33:12 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 5076@DESKTOP-50C67QE
+
+[2021-05-11 15:33:12 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:33:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:33:12 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:33:12 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:33:12 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:33:12 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:33:12 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:33:12 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:33:12 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:33:12 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:33:12 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:33:12 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:33:12 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:33:12 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:33:12 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:33:12 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:33:12 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:33:12 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:33:12 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:33:12 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:33:12 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:33:12 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:33:12 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:33:12 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:33:12 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:36:04 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 488@DESKTOP-50C67QE
+
+[2021-05-11 15:36:04 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:36:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:36:04 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:36:04 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:36:04 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:36:04 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:36:04 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:36:04 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:36:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:36:04 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:36:04 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:36:04 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:36:04 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:36:04 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:36:04 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:36:04 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:36:04 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:36:04 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:36:04 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:36:04 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:36:04 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:36:04 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:36:04 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:36:04 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:36:04 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:39:12 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 2084@DESKTOP-50C67QE
+
+[2021-05-11 15:39:12 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:39:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:39:12 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:39:12 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:39:12 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:39:12 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:39:12 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:39:12 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:39:12 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:39:12 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:39:12 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:39:12 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:39:12 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:39:12 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:39:12 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:39:12 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:39:12 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:39:12 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:39:12 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:39:12 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:39:12 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:39:12 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:39:12 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:39:12 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:39:12 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:40:03 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 12404@DESKTOP-50C67QE
+
+[2021-05-11 15:40:03 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:40:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:40:04 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:40:04 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:40:04 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:40:04 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:40:04 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:40:04 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:40:04 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:40:04 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:40:04 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:40:04 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:40:04 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:40:04 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:40:04 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:40:04 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:40:04 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:40:04 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:40:04 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:40:04 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:40:04 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:40:04 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:40:04 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:40:04 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:40:04 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:40:58 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 9892@DESKTOP-50C67QE
+
+[2021-05-11 15:40:58 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:40:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:40:58 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:40:58 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:40:58 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:40:58 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:40:58 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:40:58 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:40:58 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:40:58 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:40:58 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:40:58 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:40:58 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:40:58 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:40:58 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:40:58 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:40:58 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:40:58 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:40:58 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:40:58 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:40:58 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:40:58 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:40:58 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:40:58 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:40:58 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 15:41:47 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 2668@DESKTOP-50C67QE
+
+[2021-05-11 15:41:47 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 15:41:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 15:41:47 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 15:41:47 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 15:41:47 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 15:41:47 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 15:41:47 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 15:41:47 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 15:41:47 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 15:41:47 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 15:41:47 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 15:41:47 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 15:41:47 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 15:41:47 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 15:41:47 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 15:41:47 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 15:41:47 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 15:41:47 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 15:41:47 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 15:41:47 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 15:41:47 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 15:41:47 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 15:41:47 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 15:41:47 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 15:41:47 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:04:29 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 12804@DESKTOP-50C67QE
+
+[2021-05-11 16:04:29 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:04:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:04:29 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:04:29 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:04:29 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:04:29 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:04:29 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:04:29 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:04:29 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:04:29 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:04:29 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:04:29 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:04:29 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:04:29 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:04:29 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:04:29 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:04:29 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:04:29 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:04:29 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:04:29 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:04:29 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:04:29 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:04:29 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:04:29 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:04:29 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:12:04 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 14004@DESKTOP-50C67QE
+
+[2021-05-11 16:12:05 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:12:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:12:05 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:12:05 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:12:05 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:12:05 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:12:05 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:12:05 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:12:05 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:12:05 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:12:05 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:12:05 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:12:05 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:12:05 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:12:05 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:12:05 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:12:05 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:12:05 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:12:05 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:12:05 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:12:05 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:12:05 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:12:05 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:12:05 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:12:05 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:13:59 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 12992@DESKTOP-50C67QE
+
+[2021-05-11 16:13:59 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:13:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:13:59 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:13:59 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:13:59 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:14:00 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:14:00 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:14:00 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:14:00 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:14:00 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:14:00 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:14:00 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:14:00 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:14:00 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:14:00 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:14:00 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:14:00 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:14:00 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:14:00 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:14:00 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:14:00 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:14:00 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:14:00 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:14:00 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:14:00 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:15:43 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 13048@DESKTOP-50C67QE
+
+[2021-05-11 16:15:43 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:15:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:15:43 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:15:43 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:15:43 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:15:43 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:15:43 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:15:43 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:15:43 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:15:43 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:15:43 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:15:43 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:15:43 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:15:43 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:15:43 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:15:43 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:15:43 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:15:43 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:15:43 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:15:43 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:15:43 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:15:43 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:15:43 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:15:43 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:15:43 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:19:05 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 7916@DESKTOP-50C67QE
+
+[2021-05-11 16:19:05 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:19:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:19:05 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:19:05 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:19:05 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:19:05 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:19:05 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:19:05 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:19:05 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:19:05 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:19:05 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:19:05 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:19:05 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:19:05 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:19:05 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:19:05 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:19:05 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:19:05 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:19:05 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:19:05 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:19:05 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:19:05 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:19:05 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:19:05 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:19:05 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-11 16:23:01 #1 store] 
+Database 'C:\Users\elgor\git\Iteracion3Grupo3\Bets21\src\main\resources\bets.temp' is opened by 13964@DESKTOP-50C67QE
+
+[2021-05-11 16:23:02 #2 type.registry] 
+New type domain.Question
+
+[2021-05-11 16:23:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-11 16:23:02 #4 type.registry] 
+New type domain.Bet
+
+[2021-05-11 16:23:02 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-05-11 16:23:02 #6 type.registry] 
+New type domain.Event
+
+[2021-05-11 16:23:02 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-05-11 16:23:02 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-11 16:23:02 #9 type.registry] 
+New type domain.Team
+
+[2021-05-11 16:23:02 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-11 16:23:02 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-05-11 16:23:02 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-05-11 16:23:02 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-05-11 16:23:02 #14 type.registry] 
+New type domain.Account
+
+[2021-05-11 16:23:02 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-05-11 16:23:02 #16 type.registry] 
+New type domain.BetMade
+
+[2021-05-11 16:23:02 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-05-11 16:23:02 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-05-11 16:23:02 #19 type.registry] 
+New type java.util.Vector<domain.CreditCard>
+
+[2021-05-11 16:23:02 #20 type.registry] 
+New type domain.Coupon
+
+[2021-05-11 16:23:02 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-05-11 16:23:02 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-05-11 16:23:02 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-05-11 16:23:02 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-05-11 16:23:02 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-05-11 16:23:02 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+

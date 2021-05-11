@@ -1,0 +1,1920 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 11:56:31 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13500@LAPTOP-RRB12562
+
+[2021-04-11 11:56:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 11:56:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 11:56:31 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 11:56:31 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 11:56:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 11:56:32 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 11:56:32 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 11:56:32 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 11:56:32 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 11:56:32 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 11:56:32 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 11:56:32 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 11:56:32 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 11:59:15 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 11:59:15 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:00:07 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 7844@LAPTOP-RRB12562
+
+[2021-04-11 12:00:07 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:00:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:00:07 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:00:07 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:00:07 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:00:07 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:00:07 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:00:07 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:00:07 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:00:07 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:00:07 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:00:07 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:00:07 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:01:29 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:01:29 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:06:20 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 2372@LAPTOP-RRB12562
+
+[2021-04-11 12:06:20 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:06:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:06:20 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:06:20 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:06:20 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:06:20 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:06:20 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:06:20 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:06:20 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:06:20 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:06:20 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:06:20 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:06:20 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:09:14 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 6100@LAPTOP-RRB12562
+
+[2021-04-11 12:09:14 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:09:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:09:14 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:09:14 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:09:14 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:09:14 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:09:14 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:09:14 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:09:14 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:09:14 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:09:14 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:09:14 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:09:14 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:11:28 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 8728@LAPTOP-RRB12562
+
+[2021-04-11 12:11:28 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:11:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:11:28 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:11:28 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:11:28 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:11:28 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:11:28 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:11:28 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:11:28 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:11:28 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:11:28 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:11:28 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:11:28 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:12:15 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:12:15 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:18:34 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 7888@LAPTOP-RRB12562
+
+[2021-04-11 12:18:34 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:18:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:18:34 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:18:34 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:18:34 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:18:34 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:18:34 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:18:34 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:18:34 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:18:34 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:18:34 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:18:34 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:18:34 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:20:51 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:20:51 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:32:56 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 7896@LAPTOP-RRB12562
+
+[2021-04-11 12:32:56 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:32:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:32:56 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:32:56 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:32:56 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:32:56 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:32:56 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:32:56 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:32:56 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:32:56 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:32:56 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:32:56 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:32:57 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:33:07 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 9448@LAPTOP-RRB12562
+
+[2021-04-11 12:33:07 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:33:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:33:07 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:33:07 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:33:07 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:33:07 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:33:07 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:33:07 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:33:07 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:33:07 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:33:07 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:33:07 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:33:07 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:33:53 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:33:53 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:36:10 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 7208@LAPTOP-RRB12562
+
+[2021-04-11 12:36:10 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:36:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:36:10 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:36:10 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:36:10 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:36:10 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:36:10 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:36:10 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:36:10 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:36:10 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:36:10 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:36:10 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:36:10 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:36:22 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 3096@LAPTOP-RRB12562
+
+[2021-04-11 12:36:23 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:36:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:36:23 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:36:23 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:36:23 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:36:23 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:36:23 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:36:23 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:36:23 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:36:23 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:36:23 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:36:23 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:36:23 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:36:30 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 6340@LAPTOP-RRB12562
+
+[2021-04-11 12:36:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:36:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:36:31 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:36:31 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:36:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:36:31 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:36:31 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:36:31 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:36:31 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:36:31 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:36:31 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:36:31 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:36:31 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:36:50 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 3104@LAPTOP-RRB12562
+
+[2021-04-11 12:36:51 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:36:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:36:51 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:36:51 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:36:51 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:36:51 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:36:51 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:36:51 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:36:51 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:36:51 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:36:51 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:36:51 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:36:51 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:37:13 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:37:13 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:44:21 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13272@LAPTOP-RRB12562
+
+[2021-04-11 12:44:22 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:44:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:44:22 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:44:22 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:44:22 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:44:22 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:44:22 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:44:22 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:44:22 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:44:22 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:44:22 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:44:22 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:44:22 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:44:55 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15320@LAPTOP-RRB12562
+
+[2021-04-11 12:44:56 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:44:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:44:56 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:44:56 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:44:56 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:44:56 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:44:56 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:44:56 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:44:56 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:44:56 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:44:56 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:44:56 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:44:56 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:46:20 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15996@LAPTOP-RRB12562
+
+[2021-04-11 12:46:20 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:46:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:46:20 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:46:20 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:46:20 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:46:20 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:46:20 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:46:20 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:46:20 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:46:20 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:46:20 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:46:20 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:46:20 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:47:38 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 10480@LAPTOP-RRB12562
+
+[2021-04-11 12:47:39 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:47:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:47:39 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:47:39 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:47:39 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:47:39 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:47:39 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:47:39 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:47:39 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:47:39 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:47:39 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:47:39 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:47:39 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:48:05 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15932@LAPTOP-RRB12562
+
+[2021-04-11 12:48:05 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:48:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:48:05 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:48:05 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:48:05 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:48:05 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:48:05 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:48:05 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:48:05 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:48:05 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:48:05 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:48:05 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:48:05 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:51:17 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 12760@LAPTOP-RRB12562
+
+[2021-04-11 12:51:17 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:51:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:51:17 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:51:17 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:51:17 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:51:17 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:51:17 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:51:17 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:51:17 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:51:17 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:51:17 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:51:17 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:51:17 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:51:31 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13496@LAPTOP-RRB12562
+
+[2021-04-11 12:51:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:51:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:51:31 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:51:31 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:51:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:51:31 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:51:31 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:51:31 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:51:31 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:51:31 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:51:31 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:51:31 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:51:31 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:51:45 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 12472@LAPTOP-RRB12562
+
+[2021-04-11 12:51:45 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:51:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:51:46 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:51:46 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:51:46 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:51:46 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:51:46 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:51:46 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:51:46 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:51:46 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:51:46 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:51:46 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:51:46 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-04-11 12:52:38 #15 type.registry] 
+New type domain.BetMade
+
+[2021-04-11 12:52:38 #16 type] 
+Type domain.BetMade is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:55:30 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13420@LAPTOP-RRB12562
+
+[2021-04-11 12:55:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:55:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:55:31 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:55:31 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:55:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:55:31 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:55:31 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:55:31 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:55:31 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:55:31 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:55:31 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:55:31 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:55:31 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:57:09 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 11688@LAPTOP-RRB12562
+
+[2021-04-11 12:57:10 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:57:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:57:10 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:57:10 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:57:10 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:57:10 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:57:10 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:57:10 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:57:10 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:57:10 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:57:10 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:57:10 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:57:10 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:58:32 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 4612@LAPTOP-RRB12562
+
+[2021-04-11 12:58:32 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:58:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:58:32 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:58:32 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:58:32 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:58:32 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:58:32 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:58:32 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:58:32 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:58:32 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:58:32 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:58:32 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:58:32 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 12:58:40 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 10496@LAPTOP-RRB12562
+
+[2021-04-11 12:58:40 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 12:58:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 12:58:40 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 12:58:40 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 12:58:40 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 12:58:40 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 12:58:41 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 12:58:41 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 12:58:41 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 12:58:41 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 12:58:41 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 12:58:41 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 12:58:41 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:00:48 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13720@LAPTOP-RRB12562
+
+[2021-04-11 13:00:48 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:00:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:00:48 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:00:48 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:00:48 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:00:48 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:00:48 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:00:48 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:00:48 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:00:48 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:00:48 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:00:48 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:00:48 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:03:53 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 14392@LAPTOP-RRB12562
+
+[2021-04-11 13:03:53 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:03:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:03:53 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:03:53 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:03:53 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:03:53 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:03:53 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:03:53 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:03:54 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:03:54 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:03:54 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:03:54 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:03:54 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:05:23 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15020@LAPTOP-RRB12562
+
+[2021-04-11 13:05:24 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:05:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:05:24 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:05:24 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:05:24 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:05:24 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:05:24 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:05:24 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:05:24 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:05:24 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:05:24 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:05:24 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:05:24 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:08:46 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 1772@LAPTOP-RRB12562
+
+[2021-04-11 13:08:46 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:08:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:08:46 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:08:46 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:08:46 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:08:46 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:08:46 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:08:46 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:08:46 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:08:46 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:08:46 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:08:46 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:08:46 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:10:08 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 4684@LAPTOP-RRB12562
+
+[2021-04-11 13:10:08 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:10:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:10:08 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:10:08 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:10:08 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:10:08 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:10:08 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:10:08 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:10:08 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:10:08 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:10:08 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:10:08 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:10:08 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:10:44 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15864@LAPTOP-RRB12562
+
+[2021-04-11 13:10:44 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:10:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:10:44 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:10:44 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:10:44 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:10:44 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:10:44 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:10:44 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:10:44 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:10:44 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:10:44 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:10:44 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:10:44 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:11:21 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 9528@LAPTOP-RRB12562
+
+[2021-04-11 13:11:21 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:11:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:11:21 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:11:21 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:11:21 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:11:21 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:11:21 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:11:21 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:11:21 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:11:21 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:11:21 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:11:21 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:11:21 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:13:50 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 12796@LAPTOP-RRB12562
+
+[2021-04-11 13:13:50 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:13:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:13:50 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:13:50 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:13:50 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:13:50 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:13:50 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:13:50 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:13:50 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:13:50 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:13:50 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:13:50 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:13:50 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:14:08 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 15464@LAPTOP-RRB12562
+
+[2021-04-11 13:14:08 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:14:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:14:08 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:14:08 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:14:08 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:14:08 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:14:08 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:14:08 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:14:08 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:14:08 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:14:08 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:14:08 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:14:08 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:15:05 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 16332@LAPTOP-RRB12562
+
+[2021-04-11 13:15:06 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:15:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:15:06 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:15:06 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:15:06 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:15:06 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:15:06 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:15:06 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:15:06 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:15:06 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:15:06 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:15:06 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:15:06 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:19:06 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 12592@LAPTOP-RRB12562
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:20:10 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' has been recovered (tr. 1-2)
+
+[2021-04-11 13:20:10 #2 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 2708@LAPTOP-RRB12562
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:23:31 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 8016@LAPTOP-RRB12562
+
+[2021-04-11 13:23:31 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:23:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:23:31 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:23:31 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:23:31 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:23:31 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:23:31 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:23:31 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:23:31 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:23:31 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:23:31 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:23:31 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:23:31 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 13:26:56 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 9656@LAPTOP-RRB12562
+
+[2021-04-11 13:26:56 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 13:26:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 13:26:56 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 13:26:56 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 13:26:56 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 13:26:56 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 13:26:56 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 13:26:56 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 13:26:56 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 13:26:56 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 13:26:56 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 13:26:56 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 13:26:56 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:32:08 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 16304@LAPTOP-RRB12562
+
+[2021-04-11 16:32:09 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:32:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:32:09 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:32:09 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:32:09 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:32:09 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:32:09 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:32:09 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:32:09 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:32:09 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:32:09 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:32:09 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:32:09 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:35:14 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 13616@LAPTOP-RRB12562
+
+[2021-04-11 16:35:14 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:35:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:35:14 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:35:14 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:35:14 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:35:14 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:35:14 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:35:14 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:35:14 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:35:14 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:35:14 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:35:14 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:35:14 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:44:09 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 6620@LAPTOP-RRB12562
+
+[2021-04-11 16:44:09 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:44:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:44:09 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:44:09 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:44:09 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:44:09 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:44:09 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:44:09 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:44:09 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:44:09 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:44:09 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:44:09 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:44:09 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:46:24 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 14900@LAPTOP-RRB12562
+
+[2021-04-11 16:46:25 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:46:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:46:25 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:46:25 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:46:25 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:46:25 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:46:25 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:46:25 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:46:25 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:46:25 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:46:25 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:46:25 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:46:25 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:46:51 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 11648@LAPTOP-RRB12562
+
+[2021-04-11 16:47:20 #2 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:47:20 #3 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:47:20 #4 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:47:20 #5 type] 
+Type domain.InfoAccount is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:49:13 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 6500@LAPTOP-RRB12562
+
+[2021-04-11 16:49:13 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:49:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:49:13 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:49:13 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:49:13 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:49:13 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:49:13 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:49:13 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:49:13 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:49:13 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:49:13 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:49:13 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:49:13 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-11 16:50:15 #1 store] 
+Database 'C:\Users\Asier\Desktop\UNI\2020-2021\IS1\Eclipse 2\Bets21_closeEventGUI\src\main\resources\bets.temp' is opened by 2124@LAPTOP-RRB12562
+
+[2021-04-11 16:50:16 #2 type.registry] 
+New type domain.Question
+
+[2021-04-11 16:50:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-04-11 16:50:16 #4 type.registry] 
+New type domain.Bet
+
+[2021-04-11 16:50:16 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-04-11 16:50:16 #6 type.registry] 
+New type domain.Event
+
+[2021-04-11 16:50:16 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-04-11 16:50:16 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-04-11 16:50:16 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-04-11 16:50:16 #10 type.registry] 
+New type domain.InfoAccount
+
+[2021-04-11 16:50:16 #11 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-04-11 16:50:16 #12 type.registry] 
+New type domain.Account
+
+[2021-04-11 16:50:16 #13 type] 
+Type domain.Account is not enhanced.
+
+[2021-04-11 16:50:16 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
