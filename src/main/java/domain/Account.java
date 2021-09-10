@@ -1,5 +1,6 @@
 package domain;
 
+import java.util.LinkedList;
 import java.util.Vector;
 
 import javax.persistence.CascadeType;
@@ -25,7 +26,7 @@ public class Account {
     @OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
     private Vector<Coupon> coupons;
     
-    private Vector<CreditCard> paymentMethods;
+    private LinkedList<CreditCard> paymentMethods;
     
     @OneToMany
     private Vector<BetMade> betsMade;
@@ -41,7 +42,7 @@ public class Account {
         this.InfoAccount = InfoAccount; 
         this.wallet = 10;
         coupons = new Vector<Coupon>();
-        paymentMethods = new Vector<CreditCard>();
+        paymentMethods = new LinkedList<CreditCard>();
         betsMade = new Vector<BetMade>();
     }
     ///////////////
@@ -51,7 +52,7 @@ public class Account {
         this.password = Password;
         this.admin = false;
         coupons = new Vector<Coupon>();
-        paymentMethods = new Vector<CreditCard>();
+        paymentMethods = new LinkedList<CreditCard>();
     }
 
     public String getUser() {
@@ -172,7 +173,7 @@ public class Account {
      * Method to get all the payment methods of the account
      * @return An array list of the payment methods
      */
-    public Vector<CreditCard> getAllPaymentMethods() {
+    public LinkedList<CreditCard> getAllPaymentMethods() {
     	return paymentMethods;
     }
     
@@ -190,7 +191,7 @@ public class Account {
       * @param payment the desired payment method
       * @return An array list of the payment methods
       */
-    public Vector<CreditCard> addPaymentMethod(CreditCard e) {
+    public LinkedList<CreditCard> addPaymentMethod(CreditCard e) {
     	paymentMethods.add(e);
     	return paymentMethods;	
     }

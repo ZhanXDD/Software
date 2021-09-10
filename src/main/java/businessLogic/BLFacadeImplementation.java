@@ -2,6 +2,7 @@ package businessLogic;
 
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.ResourceBundle;
 import java.util.Vector;
@@ -552,10 +553,10 @@ public class BLFacadeImplementation implements BLFacade {
 	 * @return A vector of all the payment methods
 	 */
 	@WebMethod
-	public Vector<CreditCard> getAllPaymentMethods(Account user) {
+	public LinkedList<CreditCard> getAllPaymentMethods(Account user) {
 		dbManager.open(false);
 		
-		Vector<CreditCard> cards = dbManager.getAllPaymentMethods(user);
+		LinkedList<CreditCard> cards = dbManager.getAllPaymentMethods(user);
 		System.out.println(cards.size());
 		dbManager.close();
 		System.out.println(cards.size());

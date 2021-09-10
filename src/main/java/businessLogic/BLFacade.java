@@ -2,6 +2,7 @@ package businessLogic;
 
 import java.util.Vector;
 import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
 
 //import domain.Booking;
@@ -276,7 +277,7 @@ public interface BLFacade  {
 	 * @param user the account
 	 * @return A vector of all the payment methods
 	 */
-	@WebMethod public Vector<CreditCard> getAllPaymentMethods(Account user);
+	@WebMethod public LinkedList<CreditCard> getAllPaymentMethods(Account user);
 	
 	/**
 	 * Method to get a coupon from the data base

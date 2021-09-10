@@ -3,6 +3,7 @@ package gui;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.LinkedList;
 import java.util.Vector;
 
 import javax.swing.JLabel;
@@ -123,7 +124,7 @@ public class UserAccountGUI extends JFrame {
 						facade.addPaymentMethod(user, c);
 						lblAddMessage.setText("Successfully added");
 						paymentMethods.removeAllItems();
-						Vector<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
+						LinkedList<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
 						System.out.println(methods);
 						if(!methods.isEmpty()) {
 							for(CreditCard c1: methods) {
@@ -169,7 +170,7 @@ public class UserAccountGUI extends JFrame {
 		btnRefresh.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				paymentMethods.removeAllItems();
-				Vector<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
+				LinkedList<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
 				System.out.println(methods);
 				if(!methods.isEmpty()) {
 					for(CreditCard c: methods) {
@@ -192,7 +193,7 @@ public class UserAccountGUI extends JFrame {
 					facade.removePaymentMethod(user,(String) paymentMethods.getSelectedItem());
 					lblSuccessRemove.setText("Successfully removed");
 					paymentMethods.removeAllItems();
-					Vector<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
+					LinkedList<CreditCard> methods = facade.getAllPaymentMethods(facade.getUser(facade.getCurrentUserAccount()));
 					System.out.println(methods);
 					if(!methods.isEmpty()) {
 						for(CreditCard c: methods) {
@@ -267,7 +268,7 @@ public class UserAccountGUI extends JFrame {
 			public void actionPerformed(ActionEvent arg0) {
 				lblMoneyError.setText("");
 				float cuantity = Float.parseFloat(tFMoney.getText());
-				if(cuantity>0&paymentMethods.getSelectedItem()!=null) {
+				if(cuantity>0 && paymentMethods.getSelectedItem()!=null) {
 					facade.addMoney(facade.getUser(facade.getCurrentUserAccount()),(String) paymentMethods.getSelectedItem(), cuantity);
 					lblWalletValue.setText(String.valueOf(facade.getUser(facade.getCurrentUserAccount()).getWallet()));
 					lblMoneyError.setText("Successfully added");

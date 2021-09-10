@@ -4,6 +4,7 @@ package dataAccess;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -75,16 +76,17 @@ public class DataAccess  {
 			Account ac9 = new Account("user8", "user8",null);
 			Account ac10 = new Account("user9", "user9",null);
 			
-			InfoAccount inf1 = new InfoAccount("999999999", "Roberto", "Riaño", "correoPersonal", ac1);
-			InfoAccount inf2 = new InfoAccount("999999998", "Roberto", "Riaño", "correoPersonal", ac2);
-			InfoAccount inf3 = new InfoAccount("999999997", "Roberto", "Riaño", "correoPersonal", ac3);
-			InfoAccount inf4 = new InfoAccount("999999996", "Roberto", "Riaño", "correoPersonal", ac4);
-			InfoAccount inf5 = new InfoAccount("999999995", "Roberto", "Riaño", "correoPersonal", ac5);
-			InfoAccount inf6 = new InfoAccount("999999994", "Roberto", "Riaño", "correoPersonal", ac6);
-			InfoAccount inf7 = new InfoAccount("999999993", "Roberto", "Riaño", "correoPersonal", ac7);
-			InfoAccount inf8 = new InfoAccount("999999992", "Roberto", "Riaño", "correoPersonal", ac8);
-			InfoAccount inf9 = new InfoAccount("999999991", "Roberto", "Riaño", "correoPersonal", ac9);
-			InfoAccount inf10 = new InfoAccount("999999990", "Roberto", "Riaño", "correoPersonal", ac10);
+			String r = "Roberto";
+			InfoAccount inf1 = new InfoAccount("999999999", r, "Riaño", "correoPersonal", ac1);
+			InfoAccount inf2 = new InfoAccount("999999998", r, "Riaño", "correoPersonal", ac2);
+			InfoAccount inf3 = new InfoAccount("999999997", r, "Riaño", "correoPersonal", ac3);
+			InfoAccount inf4 = new InfoAccount("999999996", r, "Riaño", "correoPersonal", ac4);
+			InfoAccount inf5 = new InfoAccount("999999995", r, "Riaño", "correoPersonal", ac5);
+			InfoAccount inf6 = new InfoAccount("999999994", r, "Riaño", "correoPersonal", ac6);
+			InfoAccount inf7 = new InfoAccount("999999993", r, "Riaño", "correoPersonal", ac7);
+			InfoAccount inf8 = new InfoAccount("999999992", r, "Riaño", "correoPersonal", ac8);
+			InfoAccount inf9 = new InfoAccount("999999991", r, "Riaño", "correoPersonal", ac9);
+			InfoAccount inf10 = new InfoAccount("999999990", r, "Riaño", "correoPersonal", ac10);
 			
 			ac1.setInfoAccount(inf1);
 			ac2.setInfoAccount(inf2);
@@ -498,19 +500,15 @@ public class DataAccess  {
 	 * Method to Log In
 	 */
 	public Account getUserAccount(String userName) {
-		
 		Vector<Account> a = new Vector<Account>();
 		TypedQuery<Account> query = db.createQuery("SELECT a FROM Account a WHERE a.userName=?1", Account.class);
 		query.setParameter(1, userName);
-		
 		List<Account> account = query.getResultList();
 		for(Account a1 : account) {
-			a.add(a1);
-			
+			a.add(a1);	
 		}
 		return a.get(0);
-		
-		//return db.find(Account.class,userName);
+
 	}
 	
 	
@@ -777,8 +775,8 @@ public class DataAccess  {
 		
 	}
 
-	public Vector<CreditCard> getAllPaymentMethods(Account user) {
-		Vector<CreditCard> payments = new Vector<CreditCard>();
+	public LinkedList<CreditCard> getAllPaymentMethods(Account user) {
+		LinkedList<CreditCard> payments = new LinkedList<CreditCard>();
 		Account account = db.find(Account.class,user.getUser());
 		if(account!=null) {
 			payments=account.getAllPaymentMethods();
