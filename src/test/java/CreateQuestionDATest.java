@@ -128,7 +128,7 @@ class CreateQuestionDATest{
 			} catch (QuestionAlreadyExist e) {
 				// if the program goes to this point fail
 				fail("The event is null. Impossible to search for a question in it");
-			} 
+			}
 	}
 	
 	@Test
@@ -150,9 +150,10 @@ class CreateQuestionDATest{
 
 			String queryText = null;
 			try {
+				testDA.open();
 				// invoke System Under Test (sut)
 				Question q= sut.createQuestion(ev, queryText, betMinimum);
-
+			
 				// verify the results returned
 				assertNull(q);
 				

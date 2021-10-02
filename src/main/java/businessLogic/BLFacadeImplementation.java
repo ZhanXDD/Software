@@ -165,17 +165,15 @@ public class BLFacadeImplementation implements BLFacade {
 	@WebMethod
 	public Question createQuestion(Event event, String question, float betMinimum)
 			throws EventFinished, QuestionAlreadyExist {
-
-		// The minimum bed must be greater than 0
-		dbManager.open(false);
 		Question qry = null;
-
-		if (new Date().compareTo(event.getEventDate()) > 0)
-			throw new EventFinished(ResourceBundle.getBundle("Etiquetas").getString("ErrorEventHasFinished"));
-
-		qry = dbManager.createQuestion(event, question, betMinimum);
-
-		dbManager.close();
+		if(event != null) {
+			// The minimum bed must be greater than 0
+			dbManager.open(false);
+			if (new Date().compareTo(event.getEventDate()) > 0)
+				throw new EventFinished(ResourceBundle.getBundle("Etiquetas").getString("ErrorEventHasFinished"));
+			qry = dbManager.createQuestion(event, question, betMinimum);
+			dbManager.close();
+		}
 
 		return qry;
 	};
@@ -508,18 +506,22 @@ public class BLFacadeImplementation implements BLFacade {
 			//System.out.println(cu.getCoupons());
 		}
 	}
-	
+
 	/**
-	 * Method to add money to an account from a payment method, if entered a negative amount it will withdraw it.
+	 * Method to add money to an account from a payment method,
+	 * if entered a negative amount it will withdraw it.
+	 * 
 	 * @param user The selected account
 	 * @param e The selected payment method
 	 * @param amount the money amount to add
 	 */
 	@WebMethod
-	public void addMoney(Account user, String e, float amount) {
+	public void addMoney(Account user, String e, float amount){
+		
 		dbManager.open(false);
 		dbManager.addMoney(user,e,amount);
 		dbManager.close();
+
 	}
 
 	/**
@@ -555,14 +557,14 @@ public class BLFacadeImplementation implements BLFacade {
 	@WebMethod
 	public LinkedList<CreditCard> getAllPaymentMethods(Account user) {
 		dbManager.open(false);
-		
+
 		LinkedList<CreditCard> cards = dbManager.getAllPaymentMethods(user);
 		System.out.println(cards.size());
 		dbManager.close();
 		System.out.println(cards.size());
 		return cards;
 	}
-	
+
 	/**
 	 * Method to get a coupon from the data base
 	 * @param coupon the code of the coupon to search
@@ -574,7 +576,7 @@ public class BLFacadeImplementation implements BLFacade {
 		Coupon c = dbManager.getCoupon(coupon);
 		dbManager.close();
 		return c;
-		
+
 	}
 
 	/**
@@ -590,7 +592,7 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.close();
 		return ret;
 	}
-	
+
 	/**
 	 * Method to get all active events from database
 	 * @return a list of all active events
@@ -603,7 +605,7 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.close();
 		return ret;
 	}
-	
+
 	/**
 	 * Method to get all bets made from an active event
 	 * @param ev the event
@@ -615,7 +617,7 @@ public class BLFacadeImplementation implements BLFacade {
 		List<Bet> bList = new Vector<Bet>();
 		List<BetMade> aux = new Vector<BetMade>();
 		List<BetMade> ret = new Vector<BetMade>();
-		
+
 		dbManager.open(false);
 		qList = ev.getQuestions();
 		for(Question q: qList) {
@@ -631,7 +633,7 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.close();
 		return ret;
 	}
-	
+
 	/**
 	 * Method to get All teams
 	 * @return a list of teams
@@ -644,7 +646,7 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.close();
 		return ret;
 	}
-	
+
 	/**
 	 * Method to add a team into the database
 	 * @param name the name of the team

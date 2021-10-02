@@ -32,7 +32,7 @@ class CreateQuestionBLMockTest {
 	@SuppressWarnings("unchecked")
 	@DisplayName("sut.createQuestion: The event has one question with a queryText.")
 	@Test
-	void test1() {
+	void test1() throws EventFinished {
 		try {
 			// define paramaters
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
@@ -41,9 +41,9 @@ class CreateQuestionBLMockTest {
 			try {
 				// configure Mock
 				Mockito.doReturn(oneDate).when(mockedEvent).getEventDate();
-				Mockito.when(dataAccess.createQuestion(Mockito.any(Event.class), Mockito.any(String.class),	Mockito.any(Integer.class)))
+				Mockito.when(dataAccess.createQuestion(Mockito.any(Event.class), Mockito.any(String.class),	Mockito.any(float.class)))
 						.thenThrow(QuestionAlreadyExist.class);
-
+				
 				// invoke System Under Test (sut)
 				String queryText = "Query Text";
 				Float betMinimum = 2f;
