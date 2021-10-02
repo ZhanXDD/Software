@@ -31,10 +31,17 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<sonar.organization>angelyaozhan</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.coverage.jacoco.xmlReportPaths>Test.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter</artifactId>
+			<version>5.7.0-M1</version>
+			<scope>test</scope>
+		</dependency>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>

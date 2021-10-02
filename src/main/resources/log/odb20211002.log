@@ -1,0 +1,83 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 21:06:40 #1 store] 
+Database 'C:\Users\elgor\Documents\Universidad\3 Curso\Software\Bets21\src\main\resources\bets.temp' is opened by 9720@DESKTOP-50C67QE
+
+[2021-10-02 21:06:41 #2 type.registry] 
+New type domain.Question
+
+[2021-10-02 21:06:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 21:06:41 #4 type.registry] 
+New type domain.Bet
+
+[2021-10-02 21:06:41 #5 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2021-10-02 21:06:41 #6 type.registry] 
+New type domain.Event
+
+[2021-10-02 21:06:41 #7 type] 
+Type domain.Bet is not enhanced.
+
+[2021-10-02 21:06:41 #8 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 21:06:41 #9 type.registry] 
+New type domain.Team
+
+[2021-10-02 21:06:41 #10 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 21:06:41 #11 type] 
+Type domain.Team is not enhanced.
+
+[2021-10-02 21:06:41 #12 type.registry] 
+New type domain.InfoAccount
+
+[2021-10-02 21:06:41 #13 type] 
+Type domain.InfoAccount is not enhanced.
+
+[2021-10-02 21:06:41 #14 type.registry] 
+New type domain.Account
+
+[2021-10-02 21:06:41 #15 type] 
+Type domain.Account is not enhanced.
+
+[2021-10-02 21:06:41 #16 type.registry] 
+New type domain.BetMade
+
+[2021-10-02 21:06:41 #17 type.registry] 
+New type java.util.Vector<domain.BetMade>
+
+[2021-10-02 21:06:41 #18 type.registry] 
+New type domain.CreditCard
+
+[2021-10-02 21:06:41 #19 type.registry] 
+New type java.util.LinkedList<domain.CreditCard>
+
+[2021-10-02 21:06:41 #20 type.registry] 
+New type domain.Coupon
+
+[2021-10-02 21:06:41 #21 type.registry] 
+New type java.util.Vector<domain.Coupon>
+
+[2021-10-02 21:06:41 #22 type] 
+Type domain.BetMade is not enhanced.
+
+[2021-10-02 21:06:41 #23 type] 
+Type domain.CreditCard is not enhanced.
+
+[2021-10-02 21:06:41 #24 type] 
+Type domain.Coupon is not enhanced.
+
+[2021-10-02 21:06:41 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2021-10-02 21:06:41 #26 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2021-10-02 21:06:41 #27 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
