@@ -33,9 +33,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
-	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/libs/byte-buddy-1.10.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/libs/byte-buddy-agent-1.10.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/libs/mockito-core-3.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/libs/objenesis-tck-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/src/main/resources/byte-buddy-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/src/main/resources/byte-buddy-agent-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/src/main/resources/mockito-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elgor/Documents/Universidad/3 Curso/Software/Bets21/src/main/resources/objenesis-tck-3.0.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

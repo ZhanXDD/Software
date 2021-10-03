@@ -24,8 +24,13 @@ import domain.InfoAccount;
 import exceptions.BetAlreadyExist;
 import exceptions.EventAlreadyExist;
 import exceptions.EventFinished;
+import exceptions.IncorrectPaymentFormatException;
+import exceptions.NoPaymentMethodException;
+import exceptions.NullParameterException;
+import exceptions.PaymentMethodNotFound;
 import exceptions.QuestionAlreadyExist;
 import exceptions.TeamAlreadyExists;
+import exceptions.UserNotInDBException;
 
 /**
  * It implements the business logic as a web service.
@@ -516,12 +521,14 @@ public class BLFacadeImplementation implements BLFacade {
 	 * @param amount the money amount to add
 	 */
 	@WebMethod
-	public void addMoney(Account user, String e, float amount){
-		
+	public float addMoney(Account user, String e, float amount)
+			throws NullParameterException, IncorrectPaymentFormatException, UserNotInDBException, NoPaymentMethodException, PaymentMethodNotFound{
+		if(user == null || e == null) throw new NullParameterException();
+		if(!e.matches("[0-9]{16}")) throw new IncorrectPaymentFormatException();
 		dbManager.open(false);
-		dbManager.addMoney(user,e,amount);
+		float a = dbManager.addMoney(user,e,amount);
 		dbManager.close();
-
+		return a;
 	}
 
 	/**
@@ -533,7 +540,6 @@ public class BLFacadeImplementation implements BLFacade {
 	public void addPaymentMethod(Account user, CreditCard e) {
 		dbManager.open(false);
 		dbManager.addPaymentMethod(user,e);
-		//System.out.println(e.getCardNumber());
 		dbManager.close();
 	}
 

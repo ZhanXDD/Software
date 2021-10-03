@@ -269,9 +269,14 @@ public class UserAccountGUI extends JFrame {
 				lblMoneyError.setText("");
 				float cuantity = Float.parseFloat(tFMoney.getText());
 				if(cuantity>0 && paymentMethods.getSelectedItem()!=null) {
-					facade.addMoney(facade.getUser(facade.getCurrentUserAccount()),(String) paymentMethods.getSelectedItem(), cuantity);
-					lblWalletValue.setText(String.valueOf(facade.getUser(facade.getCurrentUserAccount()).getWallet()));
-					lblMoneyError.setText("Successfully added");
+					try {
+						facade.addMoney(facade.getUser(facade.getCurrentUserAccount()),(String) paymentMethods.getSelectedItem(), cuantity);
+						lblWalletValue.setText(String.valueOf(facade.getUser(facade.getCurrentUserAccount()).getWallet()));
+						lblMoneyError.setText("Successfully added");
+					}catch(Exception e) {
+						e.printStackTrace();
+						lblMoneyError.setText("Unexpected error ocurred, please try again");
+					}
 				}else if(cuantity<0) {
 					lblMoneyError.setText("Enter a valid number");
 				}else {
@@ -306,9 +311,14 @@ public class UserAccountGUI extends JFrame {
 				
 				float cuantity = Float.parseFloat(tFWithdraw.getText());
 				if(cuantity>0 & cuantity<=facade.getUser(facade.getCurrentUserAccount()).getWallet() & paymentMethods.getSelectedItem()!=null) {
-					facade.addMoney(facade.getUser(facade.getCurrentUserAccount()),(String) paymentMethods.getSelectedItem(), (-1*cuantity));
-					lblWalletValue.setText(String.valueOf(facade.getUser(facade.getCurrentUserAccount()).getWallet()));
-					lblMoneyError.setText("Successfully withdrawed");
+					try {
+						facade.addMoney(facade.getUser(facade.getCurrentUserAccount()),(String) paymentMethods.getSelectedItem(), (-1*cuantity));
+						lblWalletValue.setText(String.valueOf(facade.getUser(facade.getCurrentUserAccount()).getWallet()));
+						lblMoneyError.setText("Successfully withdrawed");
+					}catch(Exception e) {
+						e.printStackTrace();
+						lblMoneyError.setText("Unexpected error ocurred, please try again");
+					}
 				}else if(cuantity<0) {
 					lblMoneyError.setText("Enter a valid number");
 				}else if(cuantity>facade.getUser(facade.getCurrentUserAccount()).getWallet()){

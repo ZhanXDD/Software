@@ -139,8 +139,8 @@ class CreateQuestionDATest{
 			// configure the state of the system (create object in the dabatase)
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 			Date oneDate = sdf.parse("05/10/2022");
-			Team a = new Team("");
-			Team c = new Team("");
+			Team a = new Team("A");
+			Team c = new Team("B");
 			Float betMinimum = 2f;
 
 			testDA.open();

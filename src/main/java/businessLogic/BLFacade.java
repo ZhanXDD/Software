@@ -18,8 +18,13 @@ import domain.Event;
 import exceptions.BetAlreadyExist;
 import exceptions.EventAlreadyExist;
 import exceptions.EventFinished;
+import exceptions.IncorrectPaymentFormatException;
+import exceptions.NoPaymentMethodException;
+import exceptions.PaymentMethodNotFound;
 import exceptions.QuestionAlreadyExist;
 import exceptions.TeamAlreadyExists;
+import exceptions.NullParameterException;
+import exceptions.UserNotInDBException;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;
@@ -254,8 +259,13 @@ public interface BLFacade  {
 	 * @param user The selected account
 	 * @param e The selected payment method
 	 * @param amount the money amount to add
+	 * @throws PaymentMethodNotFound 
+	 * @throws NoPaymentMethodException 
+	 * @throws UserNotInDBException 
+	 * @throws IncorrectPaymentFormatException 
+	 * @throws NullParameterException 
 	 */
-	@WebMethod public void addMoney(Account user,String e, float amount);
+	@WebMethod public float addMoney(Account user,String e, float amount) throws NullParameterException, IncorrectPaymentFormatException, UserNotInDBException, NoPaymentMethodException, PaymentMethodNotFound;
 
 
 	/**
