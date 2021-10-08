@@ -154,19 +154,25 @@ public class RegisterGUI extends JFrame {
 				BLFacade facade = MainGUI.getBusinessLogic();
 				//Check user and Nid
 				lblError.setVisible(false);
-				boolean checkUser = facade.checkUser(textFieldUserName.getText());
-				boolean checkNid = facade.checkNid(textFieldNid.getText());
-				boolean validNid = facade.dniValido(textFieldNid.getText());
+				String nombre = textFieldUserName.getText();
+				boolean checkUser = facade.checkUser(nombre);
+				String dni = textFieldNid.getText();
+				boolean checkNid = facade.checkNid(dni);
+				boolean validNid = facade.dniValido(dni);
 				if(chckbxNewCheckBox.isSelected()) {
-					if(!textFieldEMail.getText().isEmpty() & !textFieldUserName.getText().isEmpty() & !textFieldNid.getText().isEmpty()
-						& !textFieldLastName.getText().isEmpty() & !textFieldName.getText().isEmpty() & !textFieldPass.getText().isEmpty()) {
+					String email = textFieldEMail.getText();
+					String apellido = textFieldLastName.getText();
+					String usuario = textFieldName.getText();
+					String password = textFieldPass.getText();
+					if(!email.isEmpty() && !nombre.isEmpty() && !dni.isEmpty()
+						&& !apellido.isEmpty() && !usuario.isEmpty() && !password.isEmpty()) {
 						if(!checkUser || checkNid || !validNid) {
 							lblError.setVisible(true);
 							if(!checkUser) lblError.setText("The inserted username already exists");
 							if(checkNid) lblError.setText("The inserted Dni already exists");
 							if(!validNid) lblError.setText("The inserted Dni must have 8 numbers followed by one capital character");
 						}else {
-							facade.addUser(textFieldName.getText(), textFieldLastName.getText(), textFieldEMail.getText(), textFieldNid.getText(), textFieldUserName.getText(), textFieldPass.getText());
+							facade.addUser(usuario, apellido, email, dni, nombre, password);
 							JFrame a = new LogInGUI();
 							dispose();
 							a.setVisible(true);
