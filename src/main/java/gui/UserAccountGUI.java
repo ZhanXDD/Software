@@ -118,7 +118,7 @@ public class UserAccountGUI extends JFrame {
 				BLFacade facade = MainGUI.getBusinessLogic();
 				lblAddMessage.setEnabled(false);
 				lblAddMessage.setText("");
-				if( (!cardNumber.getText().isEmpty() & cardNumber.getText().matches("[0-9]{16}") ) & !cardName.getText().isEmpty() & (!cvc.getText().isEmpty() & cvc.getText().matches("[0-9]{3}") ) & (!endDate.getText().isEmpty() & endDate.getText().matches("[0-9]{2}[/][0-9]{2}"))) {
+				if(cardNumber.getText().matches("[0-9]{16}") && !cardName.getText().isEmpty() && cvc.getText().matches("[0-9]{3}") && endDate.getText().matches("[0-9]{2}[/][0-9]{2}")) {
 					
 						CreditCard c = new CreditCard(cardName.getText(),endDate.getText(),cvc.getText(),cardNumber.getText());
 						facade.addPaymentMethod(user, c);

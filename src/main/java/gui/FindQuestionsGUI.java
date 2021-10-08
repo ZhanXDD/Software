@@ -76,7 +76,7 @@ public class FindQuestionsGUI extends JFrame {
 	}
 
 	
-	private void jbInit() throws Exception
+	private void jbInit()
 	{
 
 		this.getContentPane().setLayout(null);

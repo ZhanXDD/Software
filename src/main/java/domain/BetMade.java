@@ -85,10 +85,6 @@ public class BetMade {
 		this.moneyBet = newMoney;
 	}
 	
-	public void cancelBetMade() {
-		setActive(false);
-	}
-	
 	public String toString() {
 		return idBetMade + ";" + user.getUser() + ";" + bet.getBet() + ";" + isActive + " money bet: " + moneyBet;
 	}

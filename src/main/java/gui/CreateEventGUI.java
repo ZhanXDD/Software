@@ -54,7 +54,7 @@ public class CreateEventGUI extends JFrame {
 		}
 	}
 
-	private void jbInit(Vector<domain.Event> v) throws Exception {
+	private void jbInit(Vector<domain.Event> v) {
 
 		this.getContentPane().setLayout(null);
 		this.setSize(new Dimension(604, 370));

@@ -181,7 +181,7 @@ public class BLFacadeImplementation implements BLFacade {
 		}
 
 		return qry;
-	};
+	}
 
 	/**
 	 * Method to find all questions of an event
@@ -340,7 +340,6 @@ public class BLFacadeImplementation implements BLFacade {
 		return nid.matches("[0-9]{8}[A-Z]");
 	}
 
-	// TODO: Comment method
 	public void close() {
 		DataAccess dB4oManager = new DataAccess(false);
 

@@ -95,9 +95,8 @@ public class Account {
         return InfoAccount;
     }
 
-    public domain.InfoAccount setInfoAccount(InfoAccount InfoAccount) {
-        this.InfoAccount = InfoAccount;
-        return InfoAccount;
+    public void setInfoAccount(InfoAccount infoAccount) {
+        this.InfoAccount = infoAccount;
     }
   
     /**

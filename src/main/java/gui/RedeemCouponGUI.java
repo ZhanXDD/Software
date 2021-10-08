@@ -125,33 +125,15 @@ public class RedeemCouponGUI extends JFrame {
 				if (!validUser) {
 					if (coupon.length() > 0) {
 						boolean validCoupon = facade.findCoupon(coupon);
-						
 						if (validCoupon) {
-							
-							Account cu = facade.getUser(facade.getCurrentUserAccount());
-//							System.out.println(cu.getCoupons());
-							boolean u = cu.doesCouponAlreadyUsed(facade.getCoupon(coupon));
-//							System.out.println(u);
-//							System.out.println(cu.getCoupons());
-							if(!u) {
-								facade.redeemCoupon(userName, coupon);
-								lblRedeemInfo.setForeground(Color.BLACK);
-								lblRedeemInfo.setText("Coupon successfully redeemed");
-								lblRedeemInfo.setVisible(true);
-							}else {
-								lblRedeemInfo.setForeground(Color.RED);
-								lblRedeemInfo.setText("The coupon is already redeemed");
-								lblRedeemInfo.setVisible(true);
-							}
-						}
-						else {
+							useCoupon(lblRedeemInfo, facade, userName, coupon);
+						}else {
 							lblRedeemInfo.setForeground(Color.RED);
 							lblRedeemInfo.setText("There is no coupon with the given code");
 							lblRedeemInfo.setVisible(true);
 						}
 					}
-				}
-				else {
+				}else {
 					lblRedeemInfo.setForeground(Color.RED);
 					lblRedeemInfo.setText("The given user does not exist");
 					lblRedeemInfo.setVisible(true);
@@ -159,6 +141,21 @@ public class RedeemCouponGUI extends JFrame {
 				
 				
 				
+			}
+
+			private void useCoupon(JLabel lblRedeemInfo, BLFacade facade, String userName, String coupon) {
+				Account cu = facade.getUser(facade.getCurrentUserAccount());
+				boolean u = cu.doesCouponAlreadyUsed(facade.getCoupon(coupon));
+				if(!u) {
+					facade.redeemCoupon(userName, coupon);
+					lblRedeemInfo.setForeground(Color.BLACK);
+					lblRedeemInfo.setText("Coupon successfully redeemed");
+					lblRedeemInfo.setVisible(true);
+				}else {
+					lblRedeemInfo.setForeground(Color.RED);
+					lblRedeemInfo.setText("The coupon is already redeemed");
+					lblRedeemInfo.setVisible(true);
+				}
 			}
 		});
 	}

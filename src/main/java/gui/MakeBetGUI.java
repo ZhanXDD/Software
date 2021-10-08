@@ -60,7 +60,7 @@ public class MakeBetGUI extends JFrame {
 		}
 	}
 
-	private void jbInit(Vector<domain.Event> v) throws Exception {
+	private void jbInit(Vector<domain.Event> v) {
 
 		BLFacade facade = MainGUI.getBusinessLogic();
 		datesWithEventsCurrentMonth=facade.getEventsMonth(jCalendar.getDate());

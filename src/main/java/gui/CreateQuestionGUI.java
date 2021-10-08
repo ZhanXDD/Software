@@ -52,7 +52,7 @@ public class CreateQuestionGUI extends JFrame {
 		}
 	}
 
-	private void jbInit(Vector<domain.Event> v) throws Exception {
+	private void jbInit(Vector<domain.Event> v) {
 
 		this.getContentPane().setLayout(null);
 		this.setSize(new Dimension(604, 370));
@@ -106,7 +106,6 @@ public class CreateQuestionGUI extends JFrame {
 
 		this.getContentPane().add(jCalendar, null);
 		
-		//TODO
 		BLFacade facade = MainGUI.getBusinessLogic();
 		datesWithEventsCurrentMonth=facade.getEventsMonth(jCalendar.getDate());
 		paintDaysWithEvents(jCalendar,datesWithEventsCurrentMonth);
@@ -236,7 +235,6 @@ public static void paintDaysWithEvents(JCalendar jCalendar,Vector<Date> datesWit
 	 	
 	}
 	
-	//TODO
 	private void jButtonCreate_actionPerformed(ActionEvent e) {
 		domain.Event event = ((domain.Event) jComboBoxEvents.getSelectedItem());
 
