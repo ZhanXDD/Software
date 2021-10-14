@@ -208,8 +208,8 @@ public class MakeBetGUI extends JFrame {
 					int monthAct = calendarAct.get(Calendar.MONTH);
 					if (monthAct!=monthAnt) {
 						if (monthAct==monthAnt+2) { 
-							// Si en JCalendar est� 30 de enero y se avanza al mes siguiente, devolver�a 2 de marzo (se toma como equivalente a 30 de febrero)
-							// Con este c�digo se dejar� como 1 de febrero en el JCalendar
+							// Si en JCalendar esta 30 de enero y se avanza al mes siguiente, devolveria 2 de marzo (se toma como equivalente a 30 de febrero)
+							// Con este codigo se dejaroa como 1 de febrero en el JCalendar
 							calendarAct.set(Calendar.MONTH, monthAnt+1);
 							calendarAct.set(Calendar.DAY_OF_MONTH, 1);
 						}

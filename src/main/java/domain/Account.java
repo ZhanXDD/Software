@@ -141,7 +141,7 @@ public class Account {
     
     @Override
     public String toString() {
-        return "User: "+userName+ ", Contrase�a: "+ password+", "+"Coupons: "+coupons;
+        return "User: "+userName+ ", Contrasenia: "+ password+", "+"Coupons: "+coupons;
     }
     
     @Override
