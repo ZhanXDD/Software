@@ -148,7 +148,7 @@ class CreateQuestionDATest{
 			System.out.println("**************"+ev.getEventNumber());
 			testDA.close();
 
-			String queryText = "";
+			String queryText = null;
 			try {
 				testDA.open();
 				// invoke System Under Test (sut)

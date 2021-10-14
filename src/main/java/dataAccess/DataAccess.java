@@ -330,6 +330,7 @@ public class DataAccess  {
 	public Question createQuestion(Event event, String question, float betMinimum) throws  QuestionAlreadyExist {
 		System.out.println(">> DataAccess: createQuestion=> event= "+event+" question= "+question+" betMinimum="+betMinimum);
 		if(event == null) return null;
+		if(question == null) return null;
 		Event ev = db.find(Event.class, event.getEventNumber());
 
 		if (ev.DoesQuestionExists(question)) throw new QuestionAlreadyExist(ResourceBundle.getBundle("Etiquetas").getString("ErrorQueryAlreadyExist"));
