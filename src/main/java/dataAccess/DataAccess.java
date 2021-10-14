@@ -64,7 +64,7 @@ public class DataAccess  {
 	 */	
 	public void initializeDB(){
 
-		db.getTransaction().begin();
+		/**db.getTransaction().begin();
 		try {
 			//UserData and UserNames
 			Account ac1 = new Account("admin", "admin",null);
@@ -288,7 +288,7 @@ public class DataAccess  {
 		}
 		catch (Exception e){
 			e.printStackTrace();
-		}
+		}**/
 	}
 
 	/**
