@@ -23,7 +23,7 @@ class BLFacadeAddMoneyTest {
 	DataAccess mockDB = Mockito.mock(DataAccess.class);
 	BLFacade sut = new BLFacadeImplementation(mockDB);
 	
-	static DataAccess db = new DataAccess(true);
+	static DataAccess db = new DataAccess(ConfigXML.getInstance().getDataBaseOpenMode().equals("initialize"));
 	BLFacade sutDB = new BLFacadeImplementation(db);
 	private  TestUtilityFacadeImplementation testBL= new TestUtilityFacadeImplementation();
 	
