@@ -35,13 +35,13 @@ class BLFacadeAddMoneyTest {
 	@BeforeEach
 	void setup() {
 		us.addPaymentMethod(tar);
-		us.setWallet(10); //all new accounts initialize with 10€
+		us.setWallet(10); //all new accounts initialize with 10 euros
 	}
 	
 	@Test
 	@DisplayName("Test1: Correcto funcionamiento del metodo")
 	void testAddMoney1() {
-		//Añadimos 10€ mas a cuenta us
+		//Añadimos 10 euros mas a cuenta us
 		expected = 20; //Salida esperada
 		
 		try {
