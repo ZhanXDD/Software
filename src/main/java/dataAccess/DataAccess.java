@@ -29,8 +29,11 @@ import domain.CreditCard;
 import domain.InfoAccount;
 import exceptions.BetAlreadyExist;
 import exceptions.EventAlreadyExist;
+import exceptions.NoPaymentMethodException;
+import exceptions.PaymentMethodNotFound;
 import exceptions.QuestionAlreadyExist;
 import exceptions.TeamAlreadyExists;
+import exceptions.UserNotInDBException;
 
 /**
  * It implements the data access to the objectDb database
@@ -326,7 +329,7 @@ public class DataAccess  {
 	 */
 	public Question createQuestion(Event event, String question, float betMinimum) throws  QuestionAlreadyExist {
 		System.out.println(">> DataAccess: createQuestion=> event= "+event+" question= "+question+" betMinimum="+betMinimum);
-
+		if(event == null) return null;
 		Event ev = db.find(Event.class, event.getEventNumber());
 
 		if (ev.DoesQuestionExists(question)) throw new QuestionAlreadyExist(ResourceBundle.getBundle("Etiquetas").getString("ErrorQueryAlreadyExist"));
@@ -707,26 +710,26 @@ public class DataAccess  {
 	 * @param amount The money amount to add
 	 * @return The final amount of the wallet
 	 */
-	public float addMoney(Account user, String e, float amount) {
+	public float addMoney(Account user, String e, float amount) 
+			throws UserNotInDBException, NoPaymentMethodException, PaymentMethodNotFound{
 		Account a1 = db.find(Account.class, user.getUser());
 		String c ="";
 		CreditCard credit=null;
-		if(a1!=null) {
-			for(int i = 0 ; i<a1.getAllPaymentMethods().size(); i++) {
-				c=a1.getOnePaymentMethod(i).getCardNumber();
-				if(c.equals(e)) {
-					credit = a1.getOnePaymentMethod(i);
-					break;
-				}
-			}	
-			db.getTransaction().begin();
-			a1.addToWallet(credit, amount);
-			db.persist(a1);
-			db.getTransaction().commit();
-			return a1.getWallet();
+		if(a1 == null) throw new UserNotInDBException();
+		if(a1.getAllPaymentMethods().isEmpty())	throw new NoPaymentMethodException();
+		for(int i = 0 ; i<a1.getAllPaymentMethods().size(); i++) {
+			c=a1.getOnePaymentMethod(i).getCardNumber();
+			if(c.equals(e)) {
+				credit = a1.getOnePaymentMethod(i);
+				break;
+			}
 		}
-		return 0;
-		
+		if(credit == null) throw new PaymentMethodNotFound();
+		db.getTransaction().begin();
+		a1.addToWallet(credit, amount);
+		db.persist(a1);
+		db.getTransaction().commit();
+		return a1.getWallet();
 	}
 	
 
