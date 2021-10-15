@@ -71,10 +71,8 @@ public class BetsEventGUI extends JFrame {
 		}else {
 			JLabelErrors.setText("There are no events");
 		}
-		JComboBoxEvents.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
+		JComboBoxEvents.addActionListener(e -> {
 				JComboBoxEventsAction();
-			}
 		});
 	}
 	
