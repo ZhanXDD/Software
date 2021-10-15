@@ -165,7 +165,7 @@ public class MainGUI extends JFrame {
 			}
 			jButtonCreateQuery.addActionListener(new java.awt.event.ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
-					JFrame a = new CreateQuestionGUI(new Vector<Event>());
+					JFrame a = new CreateQuestionGUI(new Vector<>());
 					a.setVisible(true);
 				}
 			});
@@ -269,7 +269,7 @@ public class MainGUI extends JFrame {
 			jButtonCreateEvents.setBounds(174, 120, 140, 63);
 			jButtonCreateEvents.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					JFrame a = new CreateEventGUI(new Vector<Event>());
+					JFrame a = new CreateEventGUI(new Vector<>());
 					a.setVisible(true);
 				}
 			});
@@ -283,7 +283,7 @@ public class MainGUI extends JFrame {
 			jButtonCreateBets.setBounds(517, 120, 140, 63);
 			jButtonCreateBets.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					JFrame a = new CreateBetsGUI(new Vector<Event>());
+					JFrame a = new CreateBetsGUI(new Vector<>());
 					a.setVisible(true);
 				}
 			});
@@ -297,7 +297,7 @@ public class MainGUI extends JFrame {
 			jButtonCloseEvent.setBounds(346, 120, 140, 63);
 			jButtonCloseEvent.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent arg0) {
-					JFrame a = new CloseEventGUI(new Vector<Event>());
+					JFrame a = new CloseEventGUI(new Vector<>());
 					a.setVisible(true);
 				}
 			});
@@ -312,7 +312,7 @@ public class MainGUI extends JFrame {
 
 			btnMakeBet.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent arg0) {
-					JFrame a = new MakeBetGUI(new Vector<Event>());
+					JFrame a = new MakeBetGUI(new Vector<>());
 					a.setVisible(true);
 				}
 			});
