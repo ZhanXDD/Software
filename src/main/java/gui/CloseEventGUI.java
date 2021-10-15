@@ -112,12 +112,10 @@ public class CloseEventGUI extends JFrame {
 		getContentPane().add(jComboBoxBets);
 		
 		JButton btnSetWiner = new JButton("Set winner"); //$NON-NLS-1$ //$NON-NLS-2$
-		btnSetWiner.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
+		btnSetWiner.addActionListener(arg0 -> {
 				Bet bet = (Bet)jComboBoxBets.getSelectedItem();
 				facade.setWinnerBet(bet);
 				jLabelError.setText("The bet " + bet.toString() + " is the winner");
-			}
 		});
 		btnSetWiner.setBounds(351, 276, 140, 30);
 		getContentPane().add(btnSetWiner);
