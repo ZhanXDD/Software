@@ -431,7 +431,7 @@ public class DataAccess  {
 	 */
 	public Vector<Event> getEvents(Date date) {
 		System.out.println(">> DataAccess: getEvents");
-		Vector<Event> res = new Vector<Event>();	
+		Vector<Event> res = new Vector<>();	
 		TypedQuery<Event> query = db.createQuery("SELECT ev FROM Event ev WHERE ev.eventDate=?1",Event.class);   
 		query.setParameter(1, date);
 		List<Event> events = query.getResultList();
@@ -450,7 +450,7 @@ public class DataAccess  {
 	 */
 	public Vector<Date> getEventsMonth(Date date) {
 		System.out.println(">> DataAccess: getEventsMonth");
-		Vector<Date> res = new Vector<Date>();	
+		Vector<Date> res = new Vector<>();	
 
 		Date firstDayMonthDate= UtilDate.firstDayMonth(date);
 		Date lastDayMonthDate= UtilDate.lastDayMonth(date);
@@ -483,7 +483,7 @@ public class DataAccess  {
 			emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
 			db = emf.createEntityManager();
 		} else {
-			Map<String, String> properties = new HashMap<String, String>();
+			Map<String, String> properties = new HashMap<>();
 			properties.put("javax.persistence.jdbc.user", c.getUser());
 			properties.put("javax.persistence.jdbc.password", c.getPassword());
 
@@ -504,7 +504,7 @@ public class DataAccess  {
 	 * Method to Log In
 	 */
 	public Account getUserAccount(String userName) {
-		Vector<Account> a = new Vector<Account>();
+		Vector<Account> a = new Vector<>();
 		TypedQuery<Account> query = db.createQuery("SELECT a FROM Account a WHERE a.userName=?1", Account.class);
 		query.setParameter(1, userName);
 		List<Account> account = query.getResultList();
@@ -551,7 +551,7 @@ public class DataAccess  {
 
 	public Vector<Question> getQuestions(Event ev) {
 		System.out.println();
-		Vector<Question> q = new Vector<Question>();
+		Vector<Question> q = new Vector<>();
 		TypedQuery<Question> query = db.createQuery("SELECT q FROM Question q WHERE q.event=?1", Question.class);
 		query.setParameter(1, ev);
 		List<Question> questions = query.getResultList();
@@ -594,7 +594,7 @@ public class DataAccess  {
 	}
 	
 	public Vector<BetMade> getBetsMade(Bet bet){
-        Vector<BetMade> q = new Vector<BetMade>();
+        Vector<BetMade> q = new Vector<>();
         TypedQuery<BetMade> query = db.createQuery("SELECT b FROM BetMade b WHERE b.bet=?1", BetMade.class);
         query.setParameter(1, bet);
         List<BetMade> betsMade = query.getResultList();
@@ -780,7 +780,7 @@ public class DataAccess  {
 	}
 
 	public LinkedList<CreditCard> getAllPaymentMethods(Account user) {
-		LinkedList<CreditCard> payments = new LinkedList<CreditCard>();
+		LinkedList<CreditCard> payments = new LinkedList<>();
 		Account account = db.find(Account.class,user.getUser());
 		if(account!=null) {
 			payments=account.getAllPaymentMethods();
@@ -812,7 +812,7 @@ public class DataAccess  {
 	 * @return a list of bets made by the account
 	 */
 	public List<BetMade> getBetsMadeUser(Account ac){
-		List<BetMade> list = new Vector<BetMade>();
+		List<BetMade> list = new Vector<>();
 		System.out.println("Get all bets made by user: " + ac.getUser());
 		Account ac2 = db.find(Account.class, ac);
 		for(BetMade bet: ac2.getBetMade()) {
@@ -826,7 +826,7 @@ public class DataAccess  {
 	 * @return a list of events
 	 */
 	public List<Event> getAllEvent(){
-		List<Event> ret = new Vector<Event>();
+		List<Event> ret = new Vector<>();
 		System.out.println("Get all events");
 		TypedQuery<Event> query = db.createQuery("SELECT ev FROM Event ev", Event.class);
 		List<Event> list = query.getResultList();
@@ -841,7 +841,7 @@ public class DataAccess  {
 	 * @return a list of teams
 	 */
 	public List<Team> getAllTeam(){
-		List<Team> ret = new Vector<Team>();
+		List<Team> ret = new Vector<>();
 		System.out.println("Get all Teams");
 		TypedQuery<Team> query = db.createQuery("SELECT t FROM Team t", Team.class);
 		List<Team> list = query.getResultList();
@@ -857,7 +857,7 @@ public class DataAccess  {
 	 * @return the team found
 	 */
 	public Team getTeam(Team t) {
-		List<Team> ret = new Vector<Team>();
+		List<Team> ret = new Vector<>();
 		System.out.println("Get team: " + t.getName());
 		TypedQuery<Team> query = db.createQuery("SELECT t FROM Team t WHERE t.name=?1", Team.class);
 		query.setParameter(1, t.getName());
