@@ -153,9 +153,8 @@ public class Account {
         if (getClass() != obj.getClass())
             return false;
         Account other = (Account) obj;
-        if (userName != other.userName)
-            return false;
-        return true;
+        
+        return (userName != other.userName);
     }
     
     /**
@@ -209,7 +208,7 @@ public class Account {
      * @param amount the amount of money desired to add
      * @return the final quantity of the wallet
      */
-    public float addToWallet(CreditCard e, float amount) {
+    public float addToWallet(float amount) {
     	return wallet+=amount;
 
     }

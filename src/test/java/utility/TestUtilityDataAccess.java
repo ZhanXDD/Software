@@ -132,7 +132,7 @@ public class TestUtilityDataAccess {
 		}
 		if(credit == null) throw new PaymentMethodNotFound();
 		db.getTransaction().begin();
-		a1.addToWallet(credit, amount);
+		a1.addToWallet(amount);
 		db.persist(a1);
 		db.getTransaction().commit();
 		return a1.getWallet();
