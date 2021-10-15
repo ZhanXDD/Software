@@ -50,7 +50,7 @@ class BLFacadeAddMoneyTest {
 			
 			//Salida obtenida
 			float obtained = sut.addMoney(us, card, 10);
-			
+			Mockito.verify(mockDB,Mockito.times(1)).addMoney(Mockito.any(Account.class), Mockito.anyString(), Mockito.anyFloat());
 			assertEquals(expected, obtained, 0.001);
 		}catch(Exception e) {
 			fail("unexpected error, please check for each possible exception");
