@@ -63,16 +63,12 @@ public class AddTeamGUI extends JFrame {
 		
 		contentPane.add(jLabelWarning);
 		
-		jButtonAddTeam.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
+		jButtonAddTeam.addActionListener(e -> {
 				actionJButtonAddTeam();
-			}
 		});
 		
-		jButtonClose.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
+		jButtonClose.addActionListener(e -> {
 				dispose();
-			}
 		});
 	}
 	
