@@ -37,7 +37,7 @@ class BLFacadeMockitoAddMoneyTest {
 	@Test
 	@DisplayName("Test1: Correcto funcionamiento del metodo")
 	void testAddMoney1() {
-		//Aniºadimos 10 euros mas a cuenta us
+		//Aniadimos 10 euros mas a cuenta us
 		expected = 20; //Salida esperada
 		
 		try {
