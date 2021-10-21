@@ -33,4 +33,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install org.jacoco:jacoco-maven-plugin:report install sonar:sonar -Dsonar.projectKey=Bets21 -Dsonar.coverage.jacoco.xmlReportPaths=${workspace_loc:/Bets21}/Test.xml
+        run: mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install org.jacoco:jacoco-maven-plugin:report install sonar:sonar -Dsonar.projectKey=Bets21 -Dsonar.coverage.jacoco.xmlReportPaths=${workspace_loc:/Bets21}Test.xml
